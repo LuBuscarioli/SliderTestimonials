@@ -1,0 +1,10 @@
+.swiper {
+    width: 600px;
+    height: 700px;
+  }
+
+.avatar-slider {
+    width: 33%;
+    display: block;
+    margin: 0 auto;
+}
